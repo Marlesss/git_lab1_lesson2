@@ -1,0 +1,11 @@
+Получившийся master и удаленная demo имеют общую часть, но также имеют различающуюся часть
+в demo есть коммиты, которых нет в master:
+-Merge branch "buttons" into demo
+-Merge branch "boots" into release
+
+в master есть коммиты, которых нет в demo:
+-Merge branch 'boots_buttons'
+-Merge remote-tracking branch 'origin/hat'
+-Merge remote-tracking branch 'origih/boots' into boots_buttons
+-Merge remote-tracking branch 'origin/buttons' into boots_buttons
+-fix readme
