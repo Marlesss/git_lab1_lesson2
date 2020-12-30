@@ -9,3 +9,26 @@
 -Merge remote-tracking branch 'origih/boots' into boots_buttons
 -Merge remote-tracking branch 'origin/buttons' into boots_buttons
 -fix readme
+
+В моём репозитории:
+в ветке boots_buttons 7 коммитов:
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+fix readme
+dots
+README added
+boots
+init
+в ветке master 12 коммитов:
+edit hometask.txt
+add hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
